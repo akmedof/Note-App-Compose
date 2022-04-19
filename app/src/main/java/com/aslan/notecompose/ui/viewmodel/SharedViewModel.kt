@@ -1,4 +1,4 @@
-package com.aslan.notecompose.viewmodel
+package com.aslan.notecompose.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
