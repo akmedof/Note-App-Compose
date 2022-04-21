@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Note Compose</string>
+
+    <string name="add_button">Add Button FAB</string>
 </resources>
