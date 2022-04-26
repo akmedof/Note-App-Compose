@@ -2,4 +2,7 @@
     <string name="app_name">Note Compose</string>
 
     <string name="add_button">Add Button FAB</string>
+    <string name="search_action">Search Note</string>
+    <string name="sort_action">Sort Note</string>
+    <string name="delete_all_action">Delete All</string>
 </resources>

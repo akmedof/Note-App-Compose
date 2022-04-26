@@ -15,8 +15,8 @@ val DarkGray = Color(0xFF141414)
 
 //Priority Color
 val LowPriorityColor = Color(0xFF4CAF50)
-val HighPriorityColor = Color(0xFFFFEB3B)
-val MediumPriorityColor = Color(0xFFE91E63)
+val HighPriorityColor = Color(0xFFE91E63)
+val MediumPriorityColor = Color(0xFFFFEB3B)
 val NonePriorityColor = Color(0xFFF7FAFA)
 
 val Colors.fabBackgroundColor: Color
